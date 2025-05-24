@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cef6f918-eeb9-44f4-8bdf-308decde1102)# Purpose
+# Purpose
 This data was created to try to answer the question "are video games getting worse?" There is a lot of talk about video games getting worse every year due to companies trying to maximize profits instead making quality games so I wanted to explore that idea.
 
 Complete dataset with over 13,000 games on Kaggle. (https://www.kaggle.com/datasets/holmjason2/videogamedata/data)
