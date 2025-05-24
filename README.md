@@ -97,7 +97,7 @@ Sales are increasing overall. This indicates that video games are reaching a wid
 
 The rise in sales doesn't necessarily mean the games are better or worse — commercial success can come from trends (like battle royales, nostalgia, or microtransactions).
 
-3.	 Quality of Games (User vs. Critic Scores)
+2.	 Quality of Games (User vs. Critic Scores)
   User scores are dropping, particularly for franchise-heavy games and games with monetization strategies (microtransactions, DLCs, etc.).
  Critics are more generous, likely valuing technical or visual improvements, but users are increasingly dissatisfied, especially with annual releases that often don't innovate enough or seem designed to maximize profit.
 
