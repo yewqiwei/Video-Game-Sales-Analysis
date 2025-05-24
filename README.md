@@ -1,4 +1,4 @@
-# Purpose
+![image](https://github.com/user-attachments/assets/cef6f918-eeb9-44f4-8bdf-308decde1102)# Purpose
 This data was created to try to answer the question "are video games getting worse?" There is a lot of talk about video games getting worse every year due to companies trying to maximize profits instead making quality games so I wanted to explore that idea.
 
 Complete dataset with over 13,000 games on Kaggle. (https://www.kaggle.com/datasets/holmjason2/videogamedata/data)
@@ -15,7 +15,8 @@ SELECT * FROM games_sales_data.game_sales_data
 ORDER BY Total_Shipped DESC
 LIMIT 10;
 ```
-![image](https://github.com/user-attachments/assets/3d2ae1a4-d285-4839-aae2-7508f41c6cfa)
+<img width="644" alt="{85E08B11-DED1-4F3B-95F8-539F3BA859B1}" src="https://github.com/user-attachments/assets/58874dcd-5094-4fc2-849a-7cf04b08d8b3" />
+
 
 
 •  Nintendo games, particularly Wii Sports and the Super Mario series, demonstrate that strong sales and high user satisfaction can coexist, especially when developers maintain a focus on fun and accessibility.
