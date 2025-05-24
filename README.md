@@ -190,7 +190,7 @@ Nintendo’s Consistency: Nintendo games are largely consistent in sales and in 
 
 Strong Year for Nintendo in 2006: 2006 stands out as the peak of Nintendo's success with 120.96 million units sold, and solid user and critic ratings.’
 
-Conclusion:
+# Conclusion:
 
 Sales don't always equal satisfaction: High sales figures do not guarantee positive user reception. Games like PUBG and some EA Sports titles show that success can be driven by external factors (genre trends, marketing, or timing), while users may not always be satisfied.
 
