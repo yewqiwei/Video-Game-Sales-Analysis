@@ -34,7 +34,6 @@ This table shows the top 10 games ranked by total shipped sales, including their
 
 
 
-
 •  Nintendo games, particularly Wii Sports and the Super Mario series, demonstrate that strong sales and high user satisfaction can coexist, especially when developers maintain a focus on fun and accessibility.
 
 •  The discrepancy between critic scores and user scores for games like PUBG and Minecraft shows that innovative ideas can lead to massive sales, but may also lead to mixed user reception, particularly if the game is unfinished or lacking polish in certain areas.
