@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0055dd07-9df1-40d3-861f-5d3a517ac6ae)# Purpose
+# Purpose
 This data was created to try to answer the question "are video games getting worse?" There is a lot of talk about video games getting worse every year due to companies trying to maximize profits instead making quality games so I wanted to explore that idea.
 
 # Content
@@ -11,6 +11,8 @@ We initially imported the Video Game Sales dataset from Kaggle and cleaned the d
 SELECT * FROM games_sales_data.game_sales_data
 ORDER BY Total_Shipped DESC
 LIMIT 10;
+
+![image](https://github.com/user-attachments/assets/3d2ae1a4-d285-4839-aae2-7508f41c6cfa)
 
 
 •  Nintendo games, particularly Wii Sports and the Super Mario series, demonstrate that strong sales and high user satisfaction can coexist, especially when developers maintain a focus on fun and accessibility.
@@ -27,6 +29,9 @@ SELECT
 FROM games_sales_data.game_sales_data
 GROUP BY Year
 ORDER BY YEAR ASC;
+
+![image](https://github.com/user-attachments/assets/dd0bb96a-b0a2-421f-a03b-fbbe5551d07b)
+
  
 From the result generated, average score for critic and user score ranging from 8 to 9 from year 1981 to 2010. 
 
@@ -50,8 +55,10 @@ WHERE Year = 2017
 ORDER BY Total_Shipped DESC
 LIMIT 10;
 
- 
 
+![image](https://github.com/user-attachments/assets/4c9bcd64-e56b-4ec2-8d65-dcc0dc5a752a)
+
+ 
 
 •  Nintendo Dominated 2017: Their major titles like Zelda and Mario received perfect or near-perfect scores and performed strongly in sales.
 •  PUBG's Popularity: Despite lower user ratings, PUBG became a phenomenon and had the highest sales, indicating that the battle royale genre was a major draw.
@@ -67,6 +74,9 @@ FROM games_sales_data.game_sales_data
 GROUP BY Publisher, Year
 ORDER BY total_sales DESC
 LIMIT 20;
+
+![image](https://github.com/user-attachments/assets/6b6e9615-c308-4d97-9704-b7459b4bbba1)
+
 
 
 Nintendo’s Consistency: Nintendo games are largely consistent in sales and in maintaining positive reception from both users and critics.
