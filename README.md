@@ -20,6 +20,7 @@ LIMIT 10;
 
 
 •  Nintendo games, particularly Wii Sports and the Super Mario series, demonstrate that strong sales and high user satisfaction can coexist, especially when developers maintain a focus on fun and accessibility.
+
 •  The discrepancy between critic scores and user scores for games like PUBG and Minecraft shows that innovative ideas can lead to massive sales, but may also lead to mixed user reception, particularly if the game is unfinished or lacking polish in certain areas.
 
 
@@ -107,7 +108,6 @@ LIMIT 10;
 <img width="543" alt="{BF590AAA-8896-487E-86F0-8B15630B9FFB}" src="https://github.com/user-attachments/assets/c17274f4-2513-42a9-b230-5e8fa676a063" />
 
 
- 
 
 •  Nintendo Dominated 2017: Their major titles like Zelda and Mario received perfect or near-perfect scores and performed strongly in sales.
 •  PUBG's Popularity: Despite lower user ratings, PUBG became a phenomenon and had the highest sales, indicating that the battle royale genre was a major draw.
@@ -152,7 +152,6 @@ The table below shows the total sales, average user scores, and average critic s
 | Mojang                              | 2010 | 33.15                     | 7.8            | 10               |
 | Electronic Arts                     | 2016 | 32.33                     | 6.45           | 8.39             |
 | Activision                          | 2017 | 32.11                     | 5.02           | 8                |
-
 
 
 
