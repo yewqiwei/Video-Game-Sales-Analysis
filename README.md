@@ -15,7 +15,23 @@ SELECT * FROM games_sales_data.game_sales_data
 ORDER BY Total_Shipped DESC
 LIMIT 10;
 ```
-<img width="644" alt="{85E08B11-DED1-4F3B-95F8-539F3BA859B1}" src="https://github.com/user-attachments/assets/58874dcd-5094-4fc2-849a-7cf04b08d8b3" />
+## Video Game Sales Data - Top 10 Games by Total Sales
+
+This table shows the top 10 games ranked by total shipped sales, including their platform, publisher, developer, critic score, user score, and release year.
+
+| Rank | Name                                | Platform | Publisher           | Developer           | Critic Score | User Score | Total Shipped (in millions) | Year |
+|------|-------------------------------------|----------|---------------------|---------------------|--------------|------------|----------------------------|------|
+| 1    | Wii Sports                          | Wii      | Nintendo            | Nintendo EAD        | 7.7          | 8          | 82.9                       | 2006 |
+| 2    | Super Mario Bros.                   | NES      | Nintendo            | Nintendo EAD        | 10           | 8.2        | 40.24                      | 1985 |
+| 3    | Counter-Strike: Global Offensive     | PC       | Valve               | Valve Corporation   | 8            | 7.5        | 40                         | 2012 |
+| 4    | Mario Kart Wii                      | Wii      | Nintendo            | Nintendo EAD        | 8.2          | 9.1        | 37.32                      | 2008 |
+| 5    | PLAYERUNKNOWN'S BATTLEGROUNDS       | PC       | PUBG Corporation    | PUBG Corporation    | 8.6          | 4.7        | 36.6                       | 2017 |
+| 6    | Minecraft                           | PC       | Mojang              | Mojang AB           | 10           | 7.8        | 33.15                      | 2010 |
+| 7    | Wii Sports Resort                   | Wii      | Nintendo            | Nintendo EAD        | 8            | 8.8        | 33.13                      | 2009 |
+| 8    | Pokemon Red / Green / Blue Version  | GB       | Nintendo            | Game Freak          | 9.4          | 8.8        | 31.38                      | 1998 |
+| 9    | New Super Mario Bros.               | DS       | Nintendo            | Nintendo EAD        | 9.1          | 8.1        | 30.8                       | 2006 |
+| 10   | New Super Mario Bros. Wii           | Wii      | Nintendo            | Nintendo EAD        | 8.6          | 9.2        | 30.3                       | 2009 |
+
 
 
 
@@ -105,7 +121,23 @@ ORDER BY Total_Shipped DESC
 LIMIT 10;
 ```
 
-<img width="543" alt="{BF590AAA-8896-487E-86F0-8B15630B9FFB}" src="https://github.com/user-attachments/assets/c17274f4-2513-42a9-b230-5e8fa676a063" />
+## Video Game Sales Data for 2017
+
+This table shows the games released in 2017, including their publisher, user score, critic score, and total shipped units.
+
+| Publisher                          | Name                                         | Year | Total Shipped (in millions) | User Score | Critic Score |
+|------------------------------------|----------------------------------------------|------|----------------------------|------------|--------------|
+| PUBG Corporation                   | PLAYERUNKNOWN'S BATTLEGROUNDS                 | 2017 | 36.6                       | 4.7        | 8.6          |
+| Nintendo                            | Mario Kart 8 Deluxe                         | 2017 | 24.77                      | 8.7        | 9.3          |
+| Nintendo                            | Super Mario Odyssey                         | 2017 | 17.41                      | 9          | 9.9          |
+| Nintendo                            | The Legend of Zelda: Breath of the Wild     | 2017 | 17.41                      | 10         | 9.9          |
+| Activision                          | Call of Duty: WWII                           | 2017 | 13.4                       | 4.3        | 8            |
+| EA Sports                           | FIFA 18                                      | 2017 | 11.8                       | 3.4        | 8.3          |
+| Nintendo                            | Splatoon 2                                   | 2017 | 10.13                      | 8.5        | 8.2          |
+| Sony Interactive Entertainment     | Horizon: Zero Dawn                           | 2017 | 10                         | 8          | 9.1          |
+| Activision                          | Call of Duty: WWII                           | 2017 | 6.23                       | 4          | 8            |
+| Activision                          | Crash Bandicoot N. Sane Trilogy              | 2017 | 4.83                       | 8.5        | 8            |
+
 
 
 
