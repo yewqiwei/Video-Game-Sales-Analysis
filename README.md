@@ -14,7 +14,7 @@ We initially imported the Video Game Sales dataset from Kaggle and cleaned the d
 SELECT * FROM games_sales_data.game_sales_data
 ORDER BY Total_Shipped DESC
 LIMIT 10;
-
+```
 ![image](https://github.com/user-attachments/assets/3d2ae1a4-d285-4839-aae2-7508f41c6cfa)
 
 
@@ -25,6 +25,7 @@ LIMIT 10;
 
 # 2. In which year where critic_score & user_score start dropping as games sales improve. 
 
+```sql 
 SELECT 
     Year, SUM(Total_Shipped) AS total_sales, 
     ROUND(AVG(User_Score), 2) AS avg_user_score, 
@@ -32,6 +33,7 @@ SELECT
 FROM games_sales_data.game_sales_data
 GROUP BY Year
 ORDER BY YEAR ASC;
+```
 
 ![image](https://github.com/user-attachments/assets/dd0bb96a-b0a2-421f-a03b-fbbe5551d07b)
 
@@ -48,6 +50,7 @@ Potential analysis: The increase in sales in recent years might be due to greate
 
 # 3. Despite year 2017 generated the higher sales, we would like to identify which publishers and games contributed to the highest sales, along with the critic_scores and user_score
 
+```sql 
 SELECT Publisher,
     Name, 
     Year, 
@@ -58,7 +61,7 @@ FROM games_sales_data.game_sales_data
 WHERE Year = 2017
 ORDER BY Total_Shipped DESC
 LIMIT 10;
-
+```
 
 ![image](https://github.com/user-attachments/assets/4c9bcd64-e56b-4ec2-8d65-dcc0dc5a752a)
 
