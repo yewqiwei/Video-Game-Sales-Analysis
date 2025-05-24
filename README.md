@@ -40,6 +40,7 @@ From the result generated, average score for critic and user score ranging from 
 •  A decrease in average score for both user and critic can be noticed from 2011 onward, particularly between 2011 (6.59) and 2013 (6.98), where it starts to hover between 6 and 7.
 
 Starting from around year 2011 is whereby sales start to spike up from 173mil to year 2017 with 307.35mil of generated sales, suggesting that despite high sales, the quality perception (both from users and critics) might not have been as high.
+
 •  By 2019 and 2020, the score is relatively low, with 6.45 in 2019 and 7.5 in 2020.
 Potential analysis: The increase in sales in recent years might be due to greater accessibility or market expansion (e.g., digital distribution, wider audience reach), while the decline in user and critic scores might reflect issues with product quality, audience saturation, or other factors that affect perception.
 
@@ -93,9 +94,10 @@ Nintendo's dominance is evident, but even they face challenges in maintaining co
 
 1.	Sales Performance
 Sales are increasing overall. This indicates that video games are reaching a wider audience, which in some cases can be seen as a positive trend (more people enjoying games).
+
 The rise in sales doesn't necessarily mean the games are better or worse — commercial success can come from trends (like battle royales, nostalgia, or microtransactions).
 
-2.	 Quality of Games (User vs. Critic Scores)
+3.	 Quality of Games (User vs. Critic Scores)
   User scores are dropping, particularly for franchise-heavy games and games with monetization strategies (microtransactions, DLCs, etc.).
  Critics are more generous, likely valuing technical or visual improvements, but users are increasingly dissatisfied, especially with annual releases that often don't innovate enough or seem designed to maximize profit.
 
