@@ -36,7 +36,47 @@ GROUP BY Year
 ORDER BY YEAR ASC;
 ```
 
-![image](https://github.com/user-attachments/assets/dd0bb96a-b0a2-421f-a03b-fbbe5551d07b)
+| Year | Total Sales (in millions) | Avg User Score | Avg Critic Score |
+|------|---------------------------|----------------|------------------|
+| 1981 | 4.31                      | 7.8            | 7.6              |
+| 1982 | 7.7                       | 7.4            | 9                |
+| 1984 | 1.52                      | 7.4            | 9.5              |
+| 1985 | 68.55                     | 8.25           | 8.75             |
+| 1986 | 2.65                      | 8.1            | 8.5              |
+| 1987 | 6.51                      | 8.8            | 8.4              |
+| 1988 | 7.46                      | 8.1            | 8.5              |
+| 1989 | 30.29                     | 5.45           | 8.2              |
+| 1990 | 17.28                     | 9.3            | 9.8              |
+| 1991 | 35.61                     | 8.8            | 8.55             |
+| 1992 | 11.18                     | 8.5            | 9                |
+| 1993 | 10.55                     | 9.5            | 9.2              |
+| 1994 | 9.3                       | 8.8            | 9                |
+| 1995 | 6.3                       | 8              | 8.9              |
+| 1996 | 13.54                     | 8.5            | 8.87             |
+| 1997 | 11.17                     | 9.25           | 9.45             |
+| 1998 | 42.77                     | 8.8            | 9.05             |
+| 1999 | 15.6                      | 9.1            | 8.38             |
+| 2000 | 26.69                     | 8.45           | 8.2              |
+| 2001 | 41.66                     | 7.77           | 8.94             |
+| 2002 | 22.02                     | 8.85           | 9.2              |
+| 2003 | 21.7                      | 9.04           | 8.58             |
+| 2004 | 33.77                     | 7.91           | 8.64             |
+| 2005 | 55.84                     | 7.62           | 7.83             |
+| 2006 | 147.28                    | 8.26           | 8.11             |
+| 2007 | 112.94                    | 8.57           | 8.32             |
+| 2008 | 151.16                    | 8.55           | 8                |
+| 2009 | 144.02                    | 8.57           | 7.77             |
+| 2010 | 84.18                     | 8.78           | 8.3              |
+| 2011 | 173.35                    | 6.59           | 7.06             |
+| 2012 | 169.12                    | 7.06           | 7.37             |
+| 2013 | 185.56                    | 6.98           | 7.55             |
+| 2014 | 267.45                    | 7.01           | 7.5              |
+| 2015 | 264.74                    | 6.89           | 7.42             |
+| 2016 | 261.94                    | 6.92           | 7.41             |
+| 2017 | 307.35                    | 6.81           | 7.39             |
+| 2018 | 242.53                    | 6.58           | 7.33             |
+| 2019 | 107.75                    | 6.45           | 7.86             |
+| 2020 | 25.25                     | 7.5            | 8.74             |
 
  
 From the result generated, average score for critic and user score ranging from 8 to 9 from year 1981 to 2010. 
@@ -64,7 +104,8 @@ ORDER BY Total_Shipped DESC
 LIMIT 10;
 ```
 
-![image](https://github.com/user-attachments/assets/4c9bcd64-e56b-4ec2-8d65-dcc0dc5a752a)
+<img width="543" alt="{BF590AAA-8896-487E-86F0-8B15630B9FFB}" src="https://github.com/user-attachments/assets/c17274f4-2513-42a9-b230-5e8fa676a063" />
+
 
  
 
@@ -85,7 +126,33 @@ ORDER BY total_sales DESC
 LIMIT 20;
 ```
 
-![image](https://github.com/user-attachments/assets/6b6e9615-c308-4d97-9704-b7459b4bbba1)
+## Video Game Sales Analysis by Publisher and Year
+
+The table below shows the total sales, average user scores, and average critic scores for various publishers and games across different years.
+
+| Publisher                           | Year | Total Sales (in millions) | Avg User Score | Avg Critic Score |
+|-------------------------------------|------|---------------------------|----------------|------------------|
+| Nintendo                            | 2006 | 120.96                    | 8.57           | 8.77             |
+| Nintendo                            | 2017 | 83.76                     | 8.21           | 8.02             |
+| Nintendo                            | 2009 | 72.28                     | 9.16           | 8.32             |
+| Nintendo                            | 1985 | 68.55                     | 8.25           | 8.75             |
+| Nintendo                            | 2013 | 68.23                     | 7.86           | 7.7              |
+| Nintendo                            | 2018 | 61.76                     | 7.88           | 8                |
+| Nintendo                            | 2011 | 56.37                     | 7.85           | 7.71             |
+| Nintendo                            | 2008 | 55.03                     | 8.9            | 7.72             |
+| Nintendo                            | 2019 | 49.94                     | 7.73           | 8.23             |
+| Nintendo                            | 2014 | 48.98                     | 8.03           | 7.87             |
+| Nintendo                            | 2005 | 48.79                     | 8.5            | 7.68             |
+| Nintendo                            | 2007 | 43.26                     | 8.18           | 8.06             |
+| Nintendo                            | 1998 | 42.63                     | 9.4            | 9.53             |
+| Warner Bros. Interactive Entertainment | 2015 | 40.71                     | 7.13           | 7.99             |
+| Valve                               | 2012 | 40                        | 7.5            | 8                |
+| Nintendo                            | 2012 | 38.78                     | 7.38           | 7.38             |
+| PUBG Corporation                    | 2017 | 36.6                      | 4.7            | 8.6              |
+| Mojang                              | 2010 | 33.15                     | 7.8            | 10               |
+| Electronic Arts                     | 2016 | 32.33                     | 6.45           | 8.39             |
+| Activision                          | 2017 | 32.11                     | 5.02           | 8                |
+
 
 
 
