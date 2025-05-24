@@ -74,6 +74,7 @@ LIMIT 10;
 
 # 4.Top 10 games sales by Publisher
 
+```sql 
 SELECT Publisher, Year, SUM(Total_Shipped) AS total_sales, 
     ROUND(AVG(User_Score), 2) AS avg_user_score, 
     ROUND(AVG(Critic_Score), 2) AS avg_critic_score
@@ -81,6 +82,7 @@ FROM games_sales_data.game_sales_data
 GROUP BY Publisher, Year
 ORDER BY total_sales DESC
 LIMIT 20;
+```
 
 ![image](https://github.com/user-attachments/assets/6b6e9615-c308-4d97-9704-b7459b4bbba1)
 
