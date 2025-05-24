@@ -1,6 +1,8 @@
 # Purpose
 This data was created to try to answer the question "are video games getting worse?" There is a lot of talk about video games getting worse every year due to companies trying to maximize profits instead making quality games so I wanted to explore that idea.
 
+Complete dataset with over 13,000 games on Kaggle.
+
 # Content
 This data file contains over 13,000 games which includes games ranging from 1977 to the middle of 2020. Most of the data came from directly from the VGChartz database but some has been manually entered in from other sources. For example a lot of the critic and user scores were entered from information available on Metacritic.
 
