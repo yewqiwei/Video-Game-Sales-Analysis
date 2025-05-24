@@ -10,6 +10,7 @@ We initially imported the Video Game Sales dataset from Kaggle and cleaned the d
 
 # 1. Let's begin by looking at some of the top selling video games of all time!
 
+```sql 
 SELECT * FROM games_sales_data.game_sales_data
 ORDER BY Total_Shipped DESC
 LIMIT 10;
