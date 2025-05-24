@@ -48,7 +48,7 @@ Starting from around year 2011 is whereby sales start to spike up from 173mil to
 Potential analysis: The increase in sales in recent years might be due to greater accessibility or market expansion (e.g., digital distribution, wider audience reach), while the decline in user and critic scores might reflect issues with product quality, audience saturation, or other factors that affect perception.
 
 
-# 3. Despite year 2017 generated the higher sales, we would like to identify which publishers and games contributed to the highest sales, along with the critic_scores and user_score
+# 3. Although 2017 generated the highest sales, our goal is to identify which publishers and games contributed most to these sales, along with their corresponding critic and user scores.
 
 ```sql 
 SELECT Publisher,
